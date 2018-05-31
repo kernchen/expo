@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
     ss.dependency 'Amplitude-iOS', '~> 3.8'
     ss.dependency 'Analytics', '~> 3.5'
     ss.dependency 'AppAuth', '~> 0.4'
-    ss.dependency 'CocoaLumberjack', '~> 3.2.1'
+    ss.dependency 'CocoaLumberjack', '~> 3.3.0'
     ss.dependency 'Crashlytics', '~> 3.8'
     ss.dependency 'FBAudienceNetwork', '~> 4.24'
     ss.dependency 'FBSDKCoreKit', '~> 4.28'
